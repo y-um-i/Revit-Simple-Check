@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>SimpleCheck</Name>
+    <Assembly>ここにDLLのパスを書く</Assembly>
+    <FullClassName>App</FullClassName>
+    <VendorId>TEST</VendorId>
+    <VendorDescription>Simple Check</VendorDescription>
+  </AddIn>
+</RevitAddIns>
